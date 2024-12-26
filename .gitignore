@@ -7,3 +7,4 @@ results.csv
 env
 applied_schema.sql
 prepare_metrics.csv
+venv
